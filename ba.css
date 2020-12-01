@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image: url("ba.jpg");
+	background-size: cover;
+	text-align: center;
+	margin-top: 150px;
+}
+
+
+
+p{
+font-size: 100px;
+	display: inline;
+	color:#474747;
+}
+input{
+		font-size: 50px;
+	margin-right: 20px;
+	border-radius: 5%;
+}
